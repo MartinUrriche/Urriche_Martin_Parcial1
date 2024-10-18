@@ -4,7 +4,7 @@
 
 ## Alumno
 
-**Nombre del alumno**: [Tu Nombre Aquí]
+**Nombre del alumno**: [Martin Urriche]
 
 ## 📄 Descripción del Proyecto
 
